@@ -6,9 +6,17 @@ ArtistryUI is a professionally developed frontend for an art showcase platform b
 ## Technologies
 This project utilizes the following technologies:
 
-| React.js   | A JavaScript library for building user interfaces. | ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) |
-| Tailwind CSS | A utility-first CSS framework for styling applications. | ![Tailwind CSS](https://tailwindcss.com/img/tailwind-css-logo.svg) |
-| Firebase   | A platform for developing web and mobile applications with backend services. | ![Firebase](https://firebase.google.com/images/brand-guidelines/2x/logo_standard.png) |
+- **React.js**  
+  A powerful JavaScript library for building user interfaces.  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="50"/>
+
+- **Tailwind CSS**  
+  A utility-first CSS framework that promotes efficient styling through predefined classes.  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50"/>
+
+- **Firebase**  
+  A comprehensive platform providing backend services for application development.  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="50"/>
 
 ## Features
 - Responsive design using Tailwind CSS
@@ -61,3 +69,9 @@ export const db = getFirestore(app);
 - **Firebase**: A comprehensive platform providing backend services, including authentication and Firestore, to streamline application development. [Firebase](https://firebase.google.com/)
 - **Vercel**: A deployment platform that enables seamless hosting and scaling of frontend applications. [Vercel](https://vercel.com/)
 - **Open Source Community**: Acknowledgment of the developers and contributors who provide invaluable resources and libraries that advance web development practices.
+
+## Project Images
+Here are some screenshots of the application:
+
+![Project Image 1](https://github.com/abhirajdighe/ArtistryUI/blob/main/assets/image%201.png)
+![Project Image 2](https://github.com/abhirajdighe/ArtistryUI/blob/main/assets/image%202.png)
