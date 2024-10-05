@@ -1,0 +1,40 @@
+/* Background images and styles for each artist card */
+#rinfo1 {
+    background-image: url("../../assets/rightImages/rimg1.png");
+  }
+  
+  #rinfo2 {
+    background-image: url("../../assets/rightImages/bimg2.png");
+  }
+  
+  #rinfo3 {
+    background-image: url("../../assets/rightImages/bimg3.png");
+  }
+  
+  #rinfo4 {
+    background-image: url("../../assets/rightImages/bimg4.png");
+  }
+  
+  #rinfo5 {
+    background-image: url("../../assets/rightImages/bimg5.png");
+  }
+  
+  /* Custom scrollbar styling */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  
